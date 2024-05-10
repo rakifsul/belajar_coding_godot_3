@@ -1,0 +1,27 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Scripts/WorldDebugDraw.gd" type="Script" id=1]
+
+[sub_resource type="SpatialMaterial" id=3]
+vertex_color_use_as_albedo = true
+
+[sub_resource type="SphereMesh" id=1]
+
+[sub_resource type="SphereMesh" id=2]
+
+[node name="World" type="Spatial"]
+
+[node name="DebugDraw" type="ImmediateGeometry" parent="."]
+material_override = SubResource( 3 )
+script = ExtResource( 1 )
+
+[node name="Sphere1" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -64.2784, 0, 0 )
+mesh = SubResource( 1 )
+
+[node name="Sphere2" type="MeshInstance" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 38.6597, 0, 0 )
+mesh = SubResource( 2 )
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 0.877583, -0.229849, 0.420735, 0, 0.877583, 0.479426, -0.479426, -0.420736, 0.770151, 23.0385, 26.2522, 42.1717 )
