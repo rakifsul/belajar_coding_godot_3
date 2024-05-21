@@ -91,7 +91,7 @@ Prasyarat dari tutorial ini adalah:
 
 Pertama, buatlah project baru.
 
-Caranya telah dibahas di sini.
+Caranya telah dibahas di "[Belajar Godot Engine 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_godot_3/tree/main/Belajar-Godot-Engine-3-Cara-Membuat-Project.md)".
 
 Selanjutnya, buat Spatial bernama World, kemudian save as "World.tscn".
 

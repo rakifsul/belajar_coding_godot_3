@@ -56,7 +56,7 @@ Prasyarat dari tutorial ini adalah:
 
 ## Langkah-Langkah
 
-Jika Anda telah membaca tutorial cara membuat project Godot Engine 3 dan mempraktekkannya, maka kemungkinan akan ada Node Spatial di sana.
+Jika Anda telah membaca tutorial "[Belajar Godot Engine 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_godot_3/tree/main/Belajar-Godot-Engine-3-Cara-Membuat-Project.md)" dan mempraktekkannya, maka kemungkinan akan ada Node Spatial di sana.
 
 Gunakan Node tersebut. Attach sebuah script bernama "Spatial.gd".
 

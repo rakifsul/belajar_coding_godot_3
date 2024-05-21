@@ -44,7 +44,7 @@ Prasyarat tutorial ini adalah:
 
 ## Langkah-Langkah
 
-Jika Anda telah mengikuti tutorial keyboard input, maka Anda akan mendapati script "Spatial.gd" yang telah ter-attach ke Node Spatial.
+Jika Anda telah mengikuti "[Belajar Godot Engine 3 Mengenal Keyboard Input](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Mengenal-Keyboard-Input.md)", maka Anda akan mendapati script "Spatial.gd" yang telah ter-attach ke Node Spatial.
 
 Gunakan kembali script tersebut.
 

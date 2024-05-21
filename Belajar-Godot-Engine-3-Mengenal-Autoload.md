@@ -112,6 +112,10 @@ Prasyarat dari tutorial ini adalah;
 
 ## Langkah-Langkah
 
+Pertama, buat project baru.
+
+Caranya sudah dijelaskan di "[Belajar Godot Engine 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_godot_3/tree/main/Belajar-Godot-Engine-3-Cara-Membuat-Project.md)"
+
 Script yang digunakan dalam project ini ada 3:
 
 -   GameManager.gd
