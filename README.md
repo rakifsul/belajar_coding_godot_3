@@ -6,7 +6,7 @@ Saya sangat berharap bahwa Anda tidak hanya membaca kodenya, tapi juga membaca a
 
 Berikut ini adalah daftar artikelnya:
 
--   [Belajar Godot Engine 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_godot_3/tree/main/Belajar-Godot-Engine-3-Cara-Membuat-Project.md)
+-   [Belajar Godot Engine 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Cara-Membuat-Project.md)
 -   [Belajar Godot Engine 3 Mengenal Keyboard Input](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Mengenal-Keyboard-Input.md)
 -   [Belajar Godot Engine 3 Mengenal Mouse Input](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Mengenal-Mouse-Input.md)
 -   [Belajar Godot Engine 3 Mengenal Input Event](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Mengenal-Input-Event.md)
