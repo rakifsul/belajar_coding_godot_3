@@ -170,6 +170,8 @@ func _ready():
 
 Game Manager ini didaftarkan pada Project Settings > Autoload sehingga bisa diakses dari script manapun.
 
+![Autoload](./contoh_godot3_autoload/.md_asset/autoload.png)
+
 Karena sudah didaftarkan tadi, maka "GameManager.gd" tidak perlu di-attach lagi di manapun.
 
 Selanjutnya, buat Scene1 dan Scene2 dari Spatial dan save ke folder "Scenes".
