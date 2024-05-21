@@ -109,11 +109,13 @@ Pertama, bagian ini memiliki arti bahwa kita membuat class yang di-extend dari S
 ```
 # extend dari Spatial
 extends Spatial
-COPY
+```
+
 Hal itu bisa dipahami karena Node yang di-attach oleh script itu adalah Spatial juga.
 
 Selanjutnya, pada bagian ini, kita menangkap event process yang parameternya adalah delta time atau selisih waktu tiap frame:
 
+```
 # pada tiap frame. delta adalah selisih waktu
 func _process(delta):
 ```
