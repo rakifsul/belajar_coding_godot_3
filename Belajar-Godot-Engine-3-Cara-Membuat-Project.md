@@ -40,19 +40,13 @@ Godot Engine 3 adalah sebuah platform pengembangan permainan yang gratis dan ope
 
 Berikut adalah beberapa poin penting tentang Godot Engine 3:
 
-Gratis dan Open-Source: Godot Engine 3 tersedia secara gratis dan sepenuhnya open-source, yang berarti siapa pun dapat mengunduh, menggunakan, dan memodifikasinya tanpa biaya. Ini membuatnya sangat menarik bagi pengembang independen dan proyek dengan anggaran terbatas.
-
-Lingkungan Pengembangan Terintegrasi (IDE): Godot dilengkapi dengan lingkungan pengembangan terintegrasi yang kuat (IDE) yang memungkinkan pengembang untuk membuat, mengedit, dan mengatur proyek mereka dengan mudah. IDE menyediakan alat untuk membuat scene, skrip, UI, animasi, dan masih banyak lagi.
-
-Dukungan untuk Bahasa Skrip Multipel: Godot mendukung beberapa bahasa pemrograman skrip termasuk GDScript (bahasa pemrograman khusus Godot), C#, dan VisualScript (antarmuka pengembangan permainan berbasis node). Ini memberikan fleksibilitas bagi pengembang untuk memilih bahasa pemrograman yang paling sesuai dengan kebutuhan proyek mereka.
-
-Grafis dan Audio: Godot memiliki dukungan yang kuat untuk grafis 2D dan 3D, termasuk fitur-fitur seperti shaders, pencahayaan, animasi, partikel, dan lainnya. Ini memungkinkan untuk membuat permainan dengan tampilan visual yang menarik. Selain itu, Godot juga menyediakan fitur audio yang lengkap untuk memungkinkan pengembang membuat dan mengatur efek suara dan musik dalam permainan mereka.
-
-Cross-Platform: Permainan yang dikembangkan menggunakan Godot dapat diterapkan ke berbagai platform, termasuk PC, Mac, Linux, Android, iOS, dan bahkan konsol seperti Nintendo Switch. Ini memberikan kesempatan bagi pengembang untuk menjangkau pemain di berbagai perangkat.
-
-Komunitas yang Aktif: Godot memiliki komunitas pengembang yang besar dan aktif yang terlibat dalam berbagi pengetahuan, memberikan dukungan, dan berkolaborasi dalam pengembangan proyek. Forum, grup Discord, dan dokumentasi resmi merupakan sumber daya yang sangat berharga bagi pengembang yang menggunakan Godot.
-
-Pengembangan Berkelanjutan: Godot terus berkembang dan diperbarui secara berkala dengan peningkatan fitur baru, peningkatan kinerja, dan perbaikan bug. Tim pengembang dan kontributor komunitas terus bekerja keras untuk menjaga Godot tetap relevan dan kompetitif di pasar pengembangan permainan.
+-   Gratis dan Open-Source: Godot Engine 3 tersedia secara gratis dan sepenuhnya open-source, yang berarti siapa pun dapat mengunduh, menggunakan, dan memodifikasinya tanpa biaya. Ini membuatnya sangat menarik bagi pengembang independen dan proyek dengan anggaran terbatas.
+-   Lingkungan Pengembangan Terintegrasi (IDE): Godot dilengkapi dengan lingkungan pengembangan terintegrasi yang kuat (IDE) yang memungkinkan pengembang untuk membuat, mengedit, dan mengatur proyek mereka dengan mudah. IDE menyediakan alat untuk membuat scene, skrip, UI, animasi, dan masih banyak lagi.
+-   Dukungan untuk Bahasa Skrip Multipel: Godot mendukung beberapa bahasa pemrograman skrip termasuk GDScript (bahasa pemrograman khusus Godot), C#, dan VisualScript (antarmuka pengembangan permainan berbasis node). Ini memberikan fleksibilitas bagi pengembang untuk memilih bahasa pemrograman yang paling sesuai dengan kebutuhan proyek mereka.
+-   Grafis dan Audio: Godot memiliki dukungan yang kuat untuk grafis 2D dan 3D, termasuk fitur-fitur seperti shaders, pencahayaan, animasi, partikel, dan lainnya. Ini memungkinkan untuk membuat permainan dengan tampilan visual yang menarik. Selain itu, Godot juga menyediakan fitur audio yang lengkap untuk memungkinkan pengembang membuat dan mengatur efek suara dan musik dalam permainan mereka.
+-   Cross-Platform: Permainan yang dikembangkan menggunakan Godot dapat diterapkan ke berbagai platform, termasuk PC, Mac, Linux, Android, iOS, dan bahkan konsol seperti Nintendo Switch. Ini memberikan kesempatan bagi pengembang untuk menjangkau pemain di berbagai perangkat.
+-   Komunitas yang Aktif: Godot memiliki komunitas pengembang yang besar dan aktif yang terlibat dalam berbagi pengetahuan, memberikan dukungan, dan berkolaborasi dalam pengembangan proyek. Forum, grup Discord, dan dokumentasi resmi merupakan sumber daya yang sangat berharga bagi pengembang yang menggunakan Godot.
+-   Pengembangan Berkelanjutan: Godot terus berkembang dan diperbarui secara berkala dengan peningkatan fitur baru, peningkatan kinerja, dan perbaikan bug. Tim pengembang dan kontributor komunitas terus bekerja keras untuk menjaga Godot tetap relevan dan kompetitif di pasar pengembangan permainan.
 
 Secara keseluruhan, Godot Engine 3 adalah platform pengembangan permainan yang kuat, fleksibel, dan ramah pengembang yang memungkinkan pengembang untuk mewujudkan ide-ide kreatif mereka dalam bentuk permainan yang menarik dan inovatif.
 

@@ -20,19 +20,13 @@ Area Node adalah salah satu jenis node yang digunakan dalam Godot Engine untuk m
 
 Berikut adalah beberapa informasi yang umum diketahui tentang Area Node:
 
-Collision Detection: Node Area digunakan untuk mendeteksi collision atau benturan antara objek lain dalam game. Ini memungkinkan untuk mengetahui kapan objek memasuki, berada di dalam, atau meninggalkan area tertentu dalam scene.
-
-Bentuk dan Ukuran: Area Node dapat memiliki bentuk dan ukuran yang beragam, termasuk kotak, bola, silinder, atau bentuk kustom lainnya. Anda dapat menyesuaikan bentuk dan ukuran Area Node sesuai dengan kebutuhan game Anda.
-
-Interaksi dengan Objek: Ketika objek lain dalam game bersentuhan dengan Area Node, event tertentu dipicu. Anda dapat menambahkan logika dalam skrip yang terhubung ke Area Node untuk menangani tindakan yang diperlukan saat benturan terjadi, seperti memicu efek suara, mengubah properti objek, atau memulai animasi.
-
-Layer Collision dan Mask: Area Node dapat dikonfigurasi dengan layer collision dan mask. Ini memungkinkan Anda untuk mengontrol objek mana yang dapat berinteraksi dengan Area Node. Anda dapat mengatur layer collision dan mask untuk menyesuaikan deteksi collision sesuai kebutuhan.
-
-Digunakan untuk Berbagai Tujuan: Area Node digunakan dalam berbagai jenis game dan untuk berbagai tujuan, termasuk deteksi area dalam game puzzle, sensor dalam game simulasi, zona aman atau zona bahaya dalam game aksi, dan banyak lagi.
-
-Fleksibilitas dan Kustomisasi: Area Node memiliki fleksibilitas yang tinggi dan dapat disesuaikan dengan berbagai skenario dalam game Anda. Anda dapat menyesuaikan properti, logika, dan perilaku Area Node sesuai dengan kebutuhan spesifik proyek Anda.
-
-Efisiensi: Area Node biasanya lebih efisien daripada menggunakan collision shape langsung pada objek yang besar atau kompleks. Ini karena Area Node hanya fokus pada deteksi kollision tanpa perlu merender atau memperbarui properti visual dari objek itu sendiri.
+-   Collision Detection: Node Area digunakan untuk mendeteksi collision atau benturan antara objek lain dalam game. Ini memungkinkan untuk mengetahui kapan objek memasuki, berada di dalam, atau meninggalkan area tertentu dalam scene.
+-   Bentuk dan Ukuran: Area Node dapat memiliki bentuk dan ukuran yang beragam, termasuk kotak, bola, silinder, atau bentuk kustom lainnya. Anda dapat menyesuaikan bentuk dan ukuran Area Node sesuai dengan kebutuhan game Anda.
+-   Interaksi dengan Objek: Ketika objek lain dalam game bersentuhan dengan Area Node, event tertentu dipicu. Anda dapat menambahkan logika dalam skrip yang terhubung ke Area Node untuk menangani tindakan yang diperlukan saat benturan terjadi, seperti memicu efek suara, mengubah properti objek, atau memulai animasi.
+-   Layer Collision dan Mask: Area Node dapat dikonfigurasi dengan layer collision dan mask. Ini memungkinkan Anda untuk mengontrol objek mana yang dapat berinteraksi dengan Area Node. Anda dapat mengatur layer collision dan mask untuk menyesuaikan deteksi collision sesuai kebutuhan.
+-   Digunakan untuk Berbagai Tujuan: Area Node digunakan dalam berbagai jenis game dan untuk berbagai tujuan, termasuk deteksi area dalam game puzzle, sensor dalam game simulasi, zona aman atau zona bahaya dalam game aksi, dan banyak lagi.
+-   Fleksibilitas dan Kustomisasi: Area Node memiliki fleksibilitas yang tinggi dan dapat disesuaikan dengan berbagai skenario dalam game Anda. Anda dapat menyesuaikan properti, logika, dan perilaku Area Node sesuai dengan kebutuhan spesifik proyek Anda.
+-   Efisiensi: Area Node biasanya lebih efisien daripada menggunakan collision shape langsung pada objek yang besar atau kompleks. Ini karena Area Node hanya fokus pada deteksi kollision tanpa perlu merender atau memperbarui properti visual dari objek itu sendiri.
 
 Dengan menggunakan Area Node dalam Godot Engine, Anda dapat dengan mudah mendeteksi dan menanggapi interaksi antara objek dalam game Anda, memberikan fleksibilitas dan kontrol yang lebih besar dalam pengembangan game.
 

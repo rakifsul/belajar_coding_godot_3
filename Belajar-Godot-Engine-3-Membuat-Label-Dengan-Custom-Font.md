@@ -20,15 +20,11 @@ Node ini memungkinkan pengembang untuk menampilkan teks statis atau teks yang di
 
 Berikut beberapa informasi penting tentang Label Node di Godot Engine 3:
 
-Menampilkan Teks: Label Node digunakan untuk menampilkan teks pada layar permainan. Teks tersebut bisa berupa pesan, skor, judul, instruksi, dan lain sebagainya.
-
-Kustomisasi Teks: Pengembang dapat mengatur berbagai properti teks seperti font, ukuran, warna, efek bayangan, dan perataan teks.
-
-Multibahasa: Godot mendukung multibahasa, yang berarti Anda dapat menggunakan Label Node untuk menampilkan teks dalam berbagai bahasa dengan mudah.
-
-Dinamis: Anda dapat memperbarui teks yang ditampilkan oleh Label Node secara dinamis selama permainan berlangsung. Misalnya, untuk menampilkan skor saat permainan berlangsung atau menampilkan pesan berdasarkan interaksi pengguna.
-
-Interaksi: Label Node juga dapat dijadikan interaktif dengan menambahkan script yang merespons aksi pengguna, seperti mouse enter atau mouse exit.
+-   Menampilkan Teks: Label Node digunakan untuk menampilkan teks pada layar permainan. Teks tersebut bisa berupa pesan, skor, judul, instruksi, dan lain sebagainya.
+-   Kustomisasi Teks: Pengembang dapat mengatur berbagai properti teks seperti font, ukuran, warna, efek bayangan, dan perataan teks.
+-   Multibahasa: Godot mendukung multibahasa, yang berarti Anda dapat menggunakan Label Node untuk menampilkan teks dalam berbagai bahasa dengan mudah.
+-   Dinamis: Anda dapat memperbarui teks yang ditampilkan oleh Label Node secara dinamis selama permainan berlangsung. Misalnya, untuk menampilkan skor saat permainan berlangsung atau menampilkan pesan berdasarkan interaksi pengguna.
+-   Interaksi: Label Node juga dapat dijadikan interaktif dengan menambahkan script yang merespons aksi pengguna, seperti mouse enter atau mouse exit.
 
 Dengan Label Node, pengembang dapat dengan mudah menambahkan teks ke dalam permainan mereka dan menyesuaikannya sesuai kebutuhan, baik itu untuk tujuan estetika, informasi, atau interaksi dengan pengguna.
 

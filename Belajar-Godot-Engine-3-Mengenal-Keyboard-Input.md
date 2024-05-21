@@ -26,17 +26,12 @@ Bagaimana cara kerjanya? Mari dipelajari.
 
 Keyboard input memiliki beberapa manfaat penting dalam pengembangan game:
 
-Kontrol Karakter yang Fleksibel: Keyboard memberikan kontrol yang fleksibel untuk menggerakkan karakter dalam berbagai arah dan melakukan berbagai tindakan dalam permainan. Dengan menggunakan tombol-tombol khusus, pemain dapat menggerakkan karakter ke depan, ke belakang, ke samping, atau melakukan tindakan lain seperti melompat, menembak, atau mengaktifkan kekuatan khusus.
-
-Pengaturan Kustomisasi: Pengguna dapat dengan mudah menyesuaikan pengaturan keyboard sesuai dengan preferensi mereka. Mereka dapat memetakan tombol-tombol sesuai dengan yang mereka sukai untuk memberikan pengalaman bermain yang lebih personal.
-
-Kemampuan Multifungsi: Keyboard input memungkinkan tombol-tombol untuk memiliki fungsi ganda atau bahkan lebih dalam permainan yang sama. Misalnya, tombol "W" dapat digunakan untuk menggerakkan karakter ke depan dalam game petualangan, tetapi dapat berfungsi sebagai tombol akselerasi dalam game balap.
-
-Navigasi Menu yang Mudah: Keyboard juga berguna untuk navigasi antarmuka pengguna (UI) dalam game. Pemain dapat menggunakan tombol panah atau tombol-tombol lainnya untuk memilih menu, memilih opsi, atau berinteraksi dengan elemen-elemen lain dalam UI.
-
-Kompatibilitas Universal: Hampir semua komputer, termasuk PC dan Mac, dilengkapi dengan keyboard standar. Hal ini membuat keyboard input sangat kompatibel dengan berbagai platform game, sehingga memungkinkan pemain dari berbagai latar belakang untuk mengakses dan menikmati game dengan mudah.
-
-Kecepatan Responsif: Keyboard input sering kali memberikan respons yang lebih cepat daripada pengontrol lainnya, seperti mouse atau gamepad. Ini membuatnya ideal untuk game-game yang memerlukan tindakan cepat atau reaksi instan dari pemain.
+-   Kontrol Karakter yang Fleksibel: Keyboard memberikan kontrol yang fleksibel untuk menggerakkan karakter dalam berbagai arah dan melakukan berbagai tindakan dalam permainan. Dengan menggunakan tombol-tombol khusus, pemain dapat menggerakkan karakter ke depan, ke belakang, ke samping, atau melakukan tindakan lain seperti melompat, menembak, atau mengaktifkan kekuatan khusus.
+-   Pengaturan Kustomisasi: Pengguna dapat dengan mudah menyesuaikan pengaturan keyboard sesuai dengan preferensi mereka. Mereka dapat memetakan tombol-tombol sesuai dengan yang mereka sukai untuk memberikan pengalaman bermain yang lebih personal.
+-   Kemampuan Multifungsi: Keyboard input memungkinkan tombol-tombol untuk memiliki fungsi ganda atau bahkan lebih dalam permainan yang sama. Misalnya, tombol "W" dapat digunakan untuk menggerakkan karakter ke depan dalam game petualangan, tetapi dapat berfungsi sebagai tombol akselerasi dalam game balap.
+-   Navigasi Menu yang Mudah: Keyboard juga berguna untuk navigasi antarmuka pengguna (UI) dalam game. Pemain dapat menggunakan tombol panah atau tombol-tombol lainnya untuk memilih menu, memilih opsi, atau berinteraksi dengan elemen-elemen lain dalam UI.
+-   Kompatibilitas Universal: Hampir semua komputer, termasuk PC dan Mac, dilengkapi dengan keyboard standar. Hal ini membuat keyboard input sangat kompatibel dengan berbagai platform game, sehingga memungkinkan pemain dari berbagai latar belakang untuk mengakses dan menikmati game dengan mudah.
+-   Kecepatan Responsif: Keyboard input sering kali memberikan respons yang lebih cepat daripada pengontrol lainnya, seperti mouse atau gamepad. Ini membuatnya ideal untuk game-game yang memerlukan tindakan cepat atau reaksi instan dari pemain.
 
 Secara keseluruhan, keyboard input membawa fleksibilitas, kustomisasi, dan responsifitas yang tinggi dalam pengalaman bermain game, yang membantu dalam menciptakan pengalaman bermain yang mendalam dan menarik bagi pemain.
 

@@ -26,17 +26,12 @@ Jika Anda tidak menggunakan mouse karena menggunakan laptop, silakan pasang dulu
 
 Mouse input dalam game memiliki beberapa manfaat yang signifikan:
 
-Kontrol yang Responsif: Mouse input memungkinkan pengguna untuk melakukan tindakan secara langsung dan akurat. Posisi cursor dapat digunakan untuk mengarahkan arah pandang karakter atau menargetkan objek tertentu dengan presisi tinggi.
-
-Interaksi yang Fleksibel: Penggunaan mouse memungkinkan berbagai macam interaksi dalam game, mulai dari memilih menu, menggeser objek, hingga membidik dan menembak dalam game tembak-menembak.
-
-Kustomisasi Pengaturan: Mouse input memungkinkan pengguna untuk mengatur pengaturan mouse sesuai dengan preferensi mereka. Ini termasuk kecepatan kursor, sensitivitas mouse, atau pengaturan tombol mouse khusus.
-
-Kemudahan Navigasi UI: Mouse input sangat cocok untuk navigasi antarmuka pengguna (UI) dalam game. Pengguna dapat dengan mudah mengklik tombol, menu, atau elemen UI lainnya untuk berinteraksi dengan game.
-
-Pengalaman Pengguna yang Ditingkatkan: Dalam banyak kasus, menggunakan mouse untuk mengontrol permainan memberikan pengalaman pengguna yang lebih intuitif dan nyaman daripada pengontrol lainnya, seperti keyboard atau gamepad.
-
-Kompatibilitas dengan Platform: Mouse input umumnya didukung oleh sebagian besar platform game, termasuk PC, Mac, dan beberapa platform mobile. Ini membuat game yang menggunakan mouse input lebih mudah diakses oleh berbagai pemain.
+-   Kontrol yang Responsif: Mouse input memungkinkan pengguna untuk melakukan tindakan secara langsung dan akurat. Posisi cursor dapat digunakan untuk mengarahkan arah pandang karakter atau menargetkan objek tertentu dengan presisi tinggi.
+-   Interaksi yang Fleksibel: Penggunaan mouse memungkinkan berbagai macam interaksi dalam game, mulai dari memilih menu, menggeser objek, hingga membidik dan menembak dalam game tembak-menembak.
+-   Kustomisasi Pengaturan: Mouse input memungkinkan pengguna untuk mengatur pengaturan mouse sesuai dengan preferensi mereka. Ini termasuk kecepatan kursor, sensitivitas mouse, atau pengaturan tombol mouse khusus.
+-   Kemudahan Navigasi UI: Mouse input sangat cocok untuk navigasi antarmuka pengguna (UI) dalam game. Pengguna dapat dengan mudah mengklik tombol, menu, atau elemen UI lainnya untuk berinteraksi dengan game.
+-   Pengalaman Pengguna yang Ditingkatkan: Dalam banyak kasus, menggunakan mouse untuk mengontrol permainan memberikan pengalaman pengguna yang lebih intuitif dan nyaman daripada pengontrol lainnya, seperti keyboard atau gamepad.
+-   Kompatibilitas dengan Platform: Mouse input umumnya didukung oleh sebagian besar platform game, termasuk PC, Mac, dan beberapa platform mobile. Ini membuat game yang menggunakan mouse input lebih mudah diakses oleh berbagai pemain.
 
 Secara keseluruhan, mouse input membawa fleksibilitas, responsifitas, dan kustomisasi yang tinggi dalam pengalaman bermain game, yang membantu dalam menciptakan pengalaman bermain yang menyenangkan dan memuaskan bagi pemain.
 
