@@ -1,6 +1,6 @@
 # Belajar Coding Godot Engine 3
 
-Ini adalah kumpulan contoh coding Godot Engine 3.
+Ini adalah kumpulan artikel coding Godot Engine 3.
 
 Godot Engine 3 adalah sebuah game engine yang bersifat open source.
 
