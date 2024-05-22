@@ -2,7 +2,21 @@
 
 Ini adalah kumpulan contoh coding Godot Engine 3.
 
-Saya sangat berharap bahwa Anda tidak hanya membaca kodenya, tapi juga membaca artikelnya.
+Godot Engine 3 adalah sebuah game engine yang bersifat open source.
+
+Game engine itu sendiri adalah software yang digunakan untuk membangun game.
+
+Banyak sekali game engine yang tersedia di luar sana.
+
+Lalu, kenapa saya lebih memilih Godot Engine?
+
+Itu karena, saat pertama kali saya mencoba menggunakan Godot Engine, saya merasa bahwa resource yang digunakannya cukup kecil.
+
+Game engine ini bahkan terasa ringan di komputer yang spec nya tidak terlalu tinggi sekalipun.
+
+Walaupun demikian, saya juga tetap bisa membuat game 3D dengan game ini.
+
+Jadi, saya sangat menyarankan untuk mencobanya dan jika Anda ingin menggalinya lebih dalam, baca artikel ini.
 
 Berikut ini adalah daftar artikelnya:
 
@@ -18,5 +32,7 @@ Berikut ini adalah daftar artikelnya:
 -   [Belajar Godot Engine 3 Mengenal Button Node](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Mengenal-Button-Node.md)
 -   [Belajar Godot Engine 3 Menggunakan TextEdit Node](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Menggunakan-TextEdit-Node.md)
 -   [Belajar Godot Engine 3 Mengenal VideoPlayer Node](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Mengenal-VideoPlayer-Node.md)
+
+Akhir kata, saya meminta kepada Anda untuk mengunjungi link saya ( https://taplink.cc/rakifsul ), mengeksplorasinya, dan lebih baik lagi jika Anda mentraktir saya melalui link tersebut.
 
 Selamat menikmati.
