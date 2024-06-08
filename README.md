@@ -1,5 +1,7 @@
 # Belajar Coding Godot Engine 3
 
+## Pendahuluan
+
 Ini adalah kumpulan artikel coding Godot Engine 3.
 
 Godot Engine 3 adalah sebuah game engine yang bersifat open source.
@@ -18,6 +20,8 @@ Walaupun demikian, saya juga tetap bisa membuat game 3D dengan game ini.
 
 Jadi, saya sangat menyarankan untuk mencobanya dan jika Anda ingin menggalinya lebih dalam, baca artikel ini.
 
+## Isi artikel
+
 Berikut ini adalah daftar artikelnya:
 
 -   [Belajar Godot Engine 3 Cara Membuat Project](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Cara-Membuat-Project.md)
@@ -33,12 +37,16 @@ Berikut ini adalah daftar artikelnya:
 -   [Belajar Godot Engine 3 Menggunakan TextEdit Node](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Menggunakan-TextEdit-Node.md)
 -   [Belajar Godot Engine 3 Mengenal VideoPlayer Node](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Mengenal-VideoPlayer-Node.md)
 
-Artikel ini gratis.
+## Link Penting
 
-Jika Anda ingin mentraktir saya, kunjungi link saya:
+Kunjungi juga link saya.
 
-https://taplink.cc/rakifsul
+Link untuk traktir atau beli produk saya:
 
-Di sana ada link untuk mentraktir saya dan link lainnya.
+- https://karyakarsa.com/rakifsul
+
+Link selengkapnya:
+
+- https://taplink.cc/rakifsul
 
 Selamat menikmati.
