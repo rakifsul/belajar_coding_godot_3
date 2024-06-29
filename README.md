@@ -37,16 +37,6 @@ Berikut ini adalah daftar artikelnya:
 -   [Belajar Godot Engine 3 Menggunakan TextEdit Node](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Menggunakan-TextEdit-Node.md)
 -   [Belajar Godot Engine 3 Mengenal VideoPlayer Node](https://github.com/rakifsul/belajar_coding_godot_3/blob/main/Belajar-Godot-Engine-3-Mengenal-VideoPlayer-Node.md)
 
-## Link Penting
-
-Kunjungi juga link saya.
-
-Link untuk traktir atau beli produk saya:
+## Link untuk Traktir
 
 - https://karyakarsa.com/rakifsul
-
-Link selengkapnya:
-
-- https://taplink.cc/rakifsul
-
-Selamat menikmati.
